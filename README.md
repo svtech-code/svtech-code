@@ -10,17 +10,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/svtech_code/)
 [![Twitter](https://img.shields.io/twitter/follow/svtecg-code?style=social)](https://x.com/svtech_code)
 
-<h1 aling="center">👋 Hola soy Mario Sandoval</h1>
+<h1 align="center">👋 Hola soy Mario Sandoval</h1>
 
 <!-- imagen representativa de mi marca -->
-<p aling="center">
+<p align="center">
   <a href="https://github.com/svtech-code">
-    <img src="./img_marca.png" alt="Logo de la marca" width="200px" height="200px" />
+    <img src="./img_marca.png" alt="Logo marca svtech" />
   </a>
 </p>
 
 <!--redes sociales-->
-<p aling="center">
+<p align="center">
   <a href="www.linkedin.com/in/mario-sandoval-luengo-a059051b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
