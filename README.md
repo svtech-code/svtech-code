@@ -81,9 +81,8 @@ En 2023, fundé [svtech.cl](https://svtech.cl), una plataforma donde ofrezco ser
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture><b> GitHub Analytics</b>
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svtech-code&layout=compact&langs_count=8&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svtech-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svtech-code&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svtech-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
