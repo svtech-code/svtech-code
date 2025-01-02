@@ -37,14 +37,14 @@ En 2023, fundé [svtech.cl](https://svtech.cl), una plataforma donde ofrezco ser
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=yellow)
 
 ### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=%23F29111)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) 
 
 
 ### Frameworks y librerías
-![React](https://img.shields.io/badge/Astro-FFFFFF.svg?logo=astro&logoColor=4742D7)
-![Astro](https://img.shields.io/badge/React-222222.svg?logo=React&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?logo=astro&logoColor=%23000000)
+![React](https://img.shields.io/badge/React-222222.svg?logo=React&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=Bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?logo=Axios&logoColor=white)
@@ -59,6 +59,7 @@ En 2023, fundé [svtech.cl](https://svtech.cl), una plataforma donde ofrezco ser
 
 
 ### Softwares y herramientas
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=%23FFD62E)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE.svg?logo=Insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)
