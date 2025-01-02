@@ -1,18 +1,18 @@
 
 # <b>Hola <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> soy Mario Sandoval</b>
 
-![https://github.com/svtech-code](./img_marca.png)
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mario-sandoval-luengo-a059051b6" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedIn" alt="Logo de linkedin"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedIn" alt="Logo de linkedin"></a>
   &nbsp;
   <a href="https://www.instagram.com/svtech_code/" target="_blank" >
-    <img src="https://img.shields.io/badge/Follow-E4405F?logo=instagram" alt="Logo de instagram"></a>
+    <img src="https://img.shields.io/badge/Follow-E4405F.svg?logo=instagram" alt="Logo de instagram"></a>
   &nbsp;
   <a href="https://x.com/svtech_code" target="_blank" >
-    <img src="https://img.shields.io/badge/Follow-black?logo=x" alt="Logo de x"></a>
-</p>
+    <img src="https://img.shields.io/badge/Follow-black.svg?logo=x" alt="Logo de x"></a>
+</div>
+
+![https://github.com/svtech-code](./img_marca.png)
 
 <br>
 
