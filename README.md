@@ -2,7 +2,7 @@
 # <b>Hola <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> soy Mario Sandoval</b>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mario-sandoval-luengo-a059051b6" target="_blank" >
+  <a href="www.linkedin.com/in/svtech" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedIn" alt="Logo de linkedin"></a>
   &nbsp;
   <a href="https://www.instagram.com/svtech_code/" target="_blank" >
